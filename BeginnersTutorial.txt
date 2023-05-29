@@ -1,0 +1,7 @@
+Hadoop is an open source framework that manages , stores and procee large amount of data for application.
+Hadoop Course outline , Index No
+Basics, 101
+Process , 102
+Architecture of framework,103
+Functionality, 104
+Advantages of Hadoop, 105
